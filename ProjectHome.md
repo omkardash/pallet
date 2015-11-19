@@ -1,0 +1,1 @@
+Documentation, tutorials, simplified interfaces, performance evaluations, and additional research from The University of Texas, Dallas (UTD) using the original work and project from UMass called Mallet.  See http://mallet.cs.umass.edu/about.php for more information about Mallet.
